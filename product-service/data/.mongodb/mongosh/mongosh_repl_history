@@ -1,0 +1,3 @@
+db.product.find()
+use product-service
+db.product.find()
