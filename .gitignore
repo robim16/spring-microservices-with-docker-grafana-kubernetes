@@ -31,5 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
-data/mysql/mysql.sock
-volume-data/mysql_keycloak_data/mysql.sock
+/mysql/
+/volume-data/
+/data/
+/docker/tempo/tempo-data/
